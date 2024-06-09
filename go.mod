@@ -1,4 +1,4 @@
-module github.com/suzuki/aozora-search
+module github.com/suzuki/practice-aozora-search
 
 go 1.22.3
 
